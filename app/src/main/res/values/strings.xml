@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Our First Android App</string>
+    <string name="hello_world">Hello World. It\'s Wednesday.</string>
+    <string name="name">Name:</string>
+    <string name="enter_name">What\'s your Name?</string>
+    <string name="click_me">Click Me!</string>
+</resources>
